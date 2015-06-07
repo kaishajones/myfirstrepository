@@ -14,10 +14,24 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A4E4875A1B23793A0072CF65"
-               BuildableName = "Boolean"
-               BlueprintName = "Boolean"
-               ReferencedContainer = "container:Boolean.xcodeproj">
+               BlueprintIdentifier = "A4E8EE8A1B24B653000F0803"
+               BuildableName = "MyPartyApp.app"
+               BlueprintName = "MyPartyApp"
+               ReferencedContainer = "container:MyPartyApp.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A4E8EEA31B24B653000F0803"
+               BuildableName = "MyPartyAppTests.xctest"
+               BlueprintName = "MyPartyAppTests"
+               ReferencedContainer = "container:MyPartyApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,14 +42,24 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A4E8EEA31B24B653000F0803"
+               BuildableName = "MyPartyAppTests.xctest"
+               BlueprintName = "MyPartyAppTests"
+               ReferencedContainer = "container:MyPartyApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A4E4875A1B23793A0072CF65"
-            BuildableName = "Boolean"
-            BlueprintName = "Boolean"
-            ReferencedContainer = "container:Boolean.xcodeproj">
+            BlueprintIdentifier = "A4E8EE8A1B24B653000F0803"
+            BuildableName = "MyPartyApp.app"
+            BlueprintName = "MyPartyApp"
+            ReferencedContainer = "container:MyPartyApp.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,10 +76,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A4E4875A1B23793A0072CF65"
-            BuildableName = "Boolean"
-            BlueprintName = "Boolean"
-            ReferencedContainer = "container:Boolean.xcodeproj">
+            BlueprintIdentifier = "A4E8EE8A1B24B653000F0803"
+            BuildableName = "MyPartyApp.app"
+            BlueprintName = "MyPartyApp"
+            ReferencedContainer = "container:MyPartyApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -71,10 +95,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A4E4875A1B23793A0072CF65"
-            BuildableName = "Boolean"
-            BlueprintName = "Boolean"
-            ReferencedContainer = "container:Boolean.xcodeproj">
+            BlueprintIdentifier = "A4E8EE8A1B24B653000F0803"
+            BuildableName = "MyPartyApp.app"
+            BlueprintName = "MyPartyApp"
+            ReferencedContainer = "container:MyPartyApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

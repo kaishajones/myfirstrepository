@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A4E4875A1B23793A0072CF65"
-               BuildableName = "Boolean"
-               BlueprintName = "Boolean"
-               ReferencedContainer = "container:Boolean.xcodeproj">
+               BlueprintIdentifier = "A4E487211B2115770072CF65"
+               BuildableName = "Variables2"
+               BlueprintName = "Variables2"
+               ReferencedContainer = "container:Variables2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A4E4875A1B23793A0072CF65"
-            BuildableName = "Boolean"
-            BlueprintName = "Boolean"
-            ReferencedContainer = "container:Boolean.xcodeproj">
+            BlueprintIdentifier = "A4E487211B2115770072CF65"
+            BuildableName = "Variables2"
+            BlueprintName = "Variables2"
+            ReferencedContainer = "container:Variables2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,10 +52,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A4E4875A1B23793A0072CF65"
-            BuildableName = "Boolean"
-            BlueprintName = "Boolean"
-            ReferencedContainer = "container:Boolean.xcodeproj">
+            BlueprintIdentifier = "A4E487211B2115770072CF65"
+            BuildableName = "Variables2"
+            BlueprintName = "Variables2"
+            ReferencedContainer = "container:Variables2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -71,10 +71,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A4E4875A1B23793A0072CF65"
-            BuildableName = "Boolean"
-            BlueprintName = "Boolean"
-            ReferencedContainer = "container:Boolean.xcodeproj">
+            BlueprintIdentifier = "A4E487211B2115770072CF65"
+            BuildableName = "Variables2"
+            BlueprintName = "Variables2"
+            ReferencedContainer = "container:Variables2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

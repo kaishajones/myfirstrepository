@@ -14,10 +14,24 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A4E4875A1B23793A0072CF65"
-               BuildableName = "Boolean"
-               BlueprintName = "Boolean"
-               ReferencedContainer = "container:Boolean.xcodeproj">
+               BlueprintIdentifier = "A4E8EEBC1B24C5B6000F0803"
+               BuildableName = "MadLib.app"
+               BlueprintName = "MadLib"
+               ReferencedContainer = "container:MadLib.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A4E8EED51B24C5B6000F0803"
+               BuildableName = "MadLibTests.xctest"
+               BlueprintName = "MadLibTests"
+               ReferencedContainer = "container:MadLib.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,14 +42,24 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A4E8EED51B24C5B6000F0803"
+               BuildableName = "MadLibTests.xctest"
+               BlueprintName = "MadLibTests"
+               ReferencedContainer = "container:MadLib.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A4E4875A1B23793A0072CF65"
-            BuildableName = "Boolean"
-            BlueprintName = "Boolean"
-            ReferencedContainer = "container:Boolean.xcodeproj">
+            BlueprintIdentifier = "A4E8EEBC1B24C5B6000F0803"
+            BuildableName = "MadLib.app"
+            BlueprintName = "MadLib"
+            ReferencedContainer = "container:MadLib.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,10 +76,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A4E4875A1B23793A0072CF65"
-            BuildableName = "Boolean"
-            BlueprintName = "Boolean"
-            ReferencedContainer = "container:Boolean.xcodeproj">
+            BlueprintIdentifier = "A4E8EEBC1B24C5B6000F0803"
+            BuildableName = "MadLib.app"
+            BlueprintName = "MadLib"
+            ReferencedContainer = "container:MadLib.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -71,10 +95,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A4E4875A1B23793A0072CF65"
-            BuildableName = "Boolean"
-            BlueprintName = "Boolean"
-            ReferencedContainer = "container:Boolean.xcodeproj">
+            BlueprintIdentifier = "A4E8EEBC1B24C5B6000F0803"
+            BuildableName = "MadLib.app"
+            BlueprintName = "MadLib"
+            ReferencedContainer = "container:MadLib.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
