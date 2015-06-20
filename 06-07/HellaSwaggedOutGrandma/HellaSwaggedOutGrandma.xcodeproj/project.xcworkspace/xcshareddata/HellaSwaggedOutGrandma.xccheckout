@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>304282A1-FFA4-444F-A9A4-1A10F22B8ADF</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>HellaSwaggedOutGrandma</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>9752D1003C09669846699296A85585C5548B2D34</key>
 		<string>https://github.com/kaishajones/myfirstrepository.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>06-07/HellaSwaggedOutGrandma/HellaSwaggedOutGrandma.xcodeproj/project.xcworkspace</string>
+	<string>06-07/HellaSwaggedOutGrandma/HellaSwaggedOutGrandma.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>9752D1003C09669846699296A85585C5548B2D34</key>
